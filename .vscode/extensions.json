@@ -3,6 +3,7 @@
   // for the documentation about the extensions.json format
   "recommendations": [
     "redhat.vscode-quarkus",
-    "redhat.vscode-openshift-connector"
+    "redhat.vscode-openshift-connector",
+    "github/vscode-pull-request-github/latest"
   ]
 }
