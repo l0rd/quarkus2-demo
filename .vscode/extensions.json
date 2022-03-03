@@ -4,6 +4,6 @@
   "recommendations": [
     "redhat.vscode-quarkus",
     "redhat.vscode-openshift-connector",
-    "github/vscode-pull-request-github/latest"
+    "github.vscode-pull-request-github"
   ]
 }
